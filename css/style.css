@@ -2193,5 +2193,8 @@ ol {
 .dark-background h4 {
   color: #fff; /* Ensures all text is visible on a dark background */
 }
+html, body {
+  overflow-x: hidden;
+}
 
 }
